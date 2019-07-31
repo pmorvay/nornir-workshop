@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 from pprint import pprint
 from colorama import Fore
 import time
@@ -7,6 +10,7 @@ from nornir.plugins.functions.text import print_result
 from nornir.plugins.tasks.networking import netmiko_send_command
 
 
+#export NET_TEXTFSM=/Users/pmorvay/Documents/Cisco/Devnet/misc/nornir/ntc-templates/templates
 
 
 

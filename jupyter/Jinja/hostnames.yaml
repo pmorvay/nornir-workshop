@@ -1,0 +1,15 @@
+---
+
+hostnames:
+  - name: prg-lab-gw
+  - name: prg2-lab-gw1.cisco.com
+  - name: prg-r9-tor
+  - name: prg-r1-ts.cisco.com
+  - name: prg-r2-ts.cisco.com
+  - name: prg-r3-ts.cisco.com
+  - name: prg-r4-ts.cisco.com
+  - name: prg-r7-ts.cisco.com
+  - name: prg-r10-ts.cisco.com
+  - name: prg-r11-ts.cisco.com
+  - name: prg-nxs-a
+  - name: prg-nxs-b
